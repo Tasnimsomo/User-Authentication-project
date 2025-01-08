@@ -1,0 +1,23 @@
+{
+  "name": "User-Authentication-project",
+  "version": "1.0.0",
+  "description": "## Overview This is a basic user authentication system that allows users to register, log in, and log out. It includes features such as password hashing and session management to ensure secure authentication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tasnimsomo/User-Authentication-project/issues"
+  },
+  "homepage": "https://github.com/Tasnimsomo/User-Authentication-project#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
