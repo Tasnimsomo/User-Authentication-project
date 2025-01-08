@@ -13,11 +13,11 @@ This is a basic user authentication system that allows users to register, log in
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/user-authentication-system.git
+    git clone https://github.com/yourusername/user-authentication-project.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd user-authentication-system
+    cd user-authentication-project
     ```
 3. Install the dependencies:
     ```bash
