@@ -27,7 +27,7 @@ This is a basic user authentication system that allows users to register, log in
 ## Usage
 1. Start the server:
     ```bash
-    npm start
+    npm run dev
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
